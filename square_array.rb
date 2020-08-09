@@ -1,6 +1,5 @@
 def square_array(array)
   # your code here
-  # created new array
   new_numbers = []
   # manipulating array by passing num as an argument
   numbers.each do |num|
